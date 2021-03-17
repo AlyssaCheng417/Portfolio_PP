@@ -1,2 +1,3 @@
-# Portfolio_PP
-Portfolio for Professional Practice
+# Portfolio for Professional Practice
+Here are some explorations of coding art in P5.js.
+

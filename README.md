@@ -1,5 +1,5 @@
 # Portfolio for Professional Practice
-Weaving and Coding
+## **Weaving and Coding**
 In this project, I explore the realtionship of weaving and coding. 
 I find there are some similairties in the two different systems.
 Weaving uses the language of weft and warp, which can be seemed as the binary system (0/1) used in the computer programming.
